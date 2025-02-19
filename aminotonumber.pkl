@@ -10,7 +10,7 @@ I18
 sS'G'
 I9
 sS'F'
-I1
+I2
 sS'I'
 I4
 sS'H'
@@ -38,5 +38,5 @@ I0
 sS'V'
 I5
 sS'Y'
-I2
+I1
 s.
